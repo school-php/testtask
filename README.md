@@ -17,5 +17,5 @@
 5. Открыть localhost
 6. Убедиться, что всё работает:
    1. http://localhost/api/goods - вернёт 3 товара;
-   2. php artisan test - успешный тест;
+   2. php artisan test - успешный тест
 7. Прийти на собеседование
